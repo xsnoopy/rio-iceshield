@@ -1,5 +1,5 @@
 # rio-iceshield
-6 Axis LinuxCNC-RIO Raspberry-PI FPGA-Hat - kicad project
+6 Axis LinuxCNC-RIO Raspberry-PI FPGA-Hat - kicad project 7.0.5
 
 **experimental**
 
